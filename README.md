@@ -4,14 +4,6 @@
 
 A curated, high-quality collection of PDF and EPUB textbooks spanning programming, computer science foundations, and advanced mathematics.
 
----
-
-## 📖 Table of Contents
-
-* [About](https://www.google.com/search?q=%23about)
-* [Resource Categories](https://www.google.com/search?q=%23resource-categories)
-* [How to Contribute](https://www.google.com/search?q=%23how-to-contribute)
-* [Disclaimer](https://www.google.com/search?q=%23disclaimer)
 
 ---
 
